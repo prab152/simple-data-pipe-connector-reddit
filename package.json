@@ -14,7 +14,7 @@
                               {
                                 "service_name"  : "Tone Analyzer",
                                 "service_plan"  : "standard",
-                                "instance_name" : "Tone Analyzer",
+                                "instance_name" : "Tone Analyzer"
                               }
                           ]
   },
