@@ -10,14 +10,7 @@
   },
   "simple_data_pipe": {
                         "name": "reddit",
-                        "service_dependencies": [
-                              {
-                                "service_name"  : "tone analyzer",
-                                "service_plan"  : "standard",
-                                "instance_name" : "tone analyzer",
-                                "vcap_env_service_alias" : "WATSON_TONE_ANALYZER"                               
-                              }
-                          ]
+                        "service_dependencies": []
   },
   "keywords": [
     "Simple Data Pipe",
