@@ -12,7 +12,7 @@
                         "name": "reddit",
                         "service_dependencies": [
                               {
-                                "service_name"  : "Tone Analyzer",
+                                "service_name"  : "tone_analyzer",
                                 "service_plan"  : "standard",
                                 "instance_name" : "Tone Analyzer"
                               }
