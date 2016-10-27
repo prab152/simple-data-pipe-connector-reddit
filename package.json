@@ -13,7 +13,7 @@
                         "service_dependencies": [
                               {
                                 "service_name"  : "tone_analyzer",
-                                "service_plan"  : "beta",
+                                "service_plan"  : "standard",
                                 "instance_name" : "tone analyzer",
                                 "vcap_env_service_alias" : "WATSON_TONE_ANALYZER"                               
                               }
